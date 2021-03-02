@@ -2,9 +2,9 @@ class Main {
 
 	public static void main(String[] args){
 		System.out.println("Hola mundo, desde java");
-		System.out.println("La conexión con Github se realizado Tres")
+		System.out.println("La conexión con Github se realizado Tres  error")
 		System.out.println("tercer cambio");
-		System.out.println("sexto cambio 4")
+		System.out.println("sexto cambio development error"
 	}
 
 }
